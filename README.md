@@ -1,4 +1,17 @@
-Official vanguard gaming center terms of service
+<!DOCTYPE html>
+<html>
+<head>
+  <title>vanguard gaming center tos</title>
+  <style>
+    body { font-family: Arial; max-width: 800px; margin: auto; padding: 20px; }
+    h1 { color: #333; }
+    .box { background: #f4f4f4; padding: 15px; border-radius: 8px; }
+  </style>
+</head>
+<body>
+
+
+<p> Official vanguard gaming center terms of service
 
 By joining and participating in this server, you agree to follow all rules listed below. Failure to comply may result in punishments as outlined.
 Punishment System
@@ -113,9 +126,15 @@ Ban
 17. Giveaway Rules
 All giveaways must be announced in advance:
 Small giveaways: at least 3 days prior
-Large giveaways: at least 7 days prior
+Large giveaways: at least 7 days prior <p>
 
-Final Notes
-Staff reserve the right to adjust punishments based on severity.
+<div class="box">
+  <h2>Example Term</h2>
+  <p><b>Original:</b> " Staff reserve the right to adjust punishments based on severity.
 Ignorance of the rules is not an excuse.
-Continued violations may lead to permanent removal from the server.
+Continued violations may lead to permanent removal from the server."</p>
+  <p><b>Simple:</b> They can ban your account anytime, even without warning.</p>
+</div>
+
+</body>
+</html>
