@@ -1,5 +1,4 @@
-
-  <title>vanguard gaming center tos</title>
+vanguard gaming center tos
 
 
 
