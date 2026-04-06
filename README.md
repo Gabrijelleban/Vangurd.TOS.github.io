@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>vanguard gaming center tos</title>
-  <style>
+  <style> 
     body { font-family: Arial; max-width: 800px; margin: auto; padding: 20px; }
     h1 { color: #333; }
     .box { background: #f4f4f4; padding: 15px; border-radius: 8px; }
@@ -129,7 +129,7 @@ Small giveaways: at least 3 days prior
 Large giveaways: at least 7 days prior <p>
 
 <div class="box">
-  <h2>Example Term</h2>
+  <h2>terms</h2>
   <p><b>Original:</b> " Staff reserve the right to adjust punishments based on severity.
 Ignorance of the rules is not an excuse.
 Continued violations may lead to permanent removal from the server."</p>
