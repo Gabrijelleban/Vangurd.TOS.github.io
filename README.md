@@ -1,4 +1,3 @@
-# Vangurd.TOS.github.io
 Official vanguard gaming center terms of service
 
 By joining and participating in this server, you agree to follow all rules listed below. Failure to comply may result in punishments as outlined.
