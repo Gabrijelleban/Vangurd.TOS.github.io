@@ -1,14 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
+
   <title>vanguard gaming center tos</title>
-  <style> 
-    body { font-family: Arial; max-width: 800px; margin: auto; padding: 20px; }
-    h1 { color: #333; }
-    .box { background: #f4f4f4; padding: 15px; border-radius: 8px; }
-  </style>
-</head>
-<body>
+
 
 
 <p> Official vanguard gaming center terms of service
