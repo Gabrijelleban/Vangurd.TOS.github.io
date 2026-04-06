@@ -1,4 +1,4 @@
-vanguard gaming center tos
+vanguard gaming center TOS
 
 
 
